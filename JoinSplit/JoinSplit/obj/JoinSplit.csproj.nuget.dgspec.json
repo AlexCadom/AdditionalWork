@@ -1,0 +1,62 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Amdaris\\Занятие 6\\Новая папка\\JoinSplit\\JoinSplit\\JoinSplit.csproj": {}
+  },
+  "projects": {
+    "D:\\Amdaris\\Занятие 6\\Новая папка\\JoinSplit\\JoinSplit\\JoinSplit.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Amdaris\\Занятие 6\\Новая папка\\JoinSplit\\JoinSplit\\JoinSplit.csproj",
+        "projectName": "JoinSplit",
+        "projectPath": "D:\\Amdaris\\Занятие 6\\Новая папка\\JoinSplit\\JoinSplit\\JoinSplit.csproj",
+        "packagesPath": "C:\\Users\\fantt\\.nuget\\packages\\",
+        "outputPath": "D:\\Amdaris\\Занятие 6\\Новая папка\\JoinSplit\\JoinSplit\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\fantt\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

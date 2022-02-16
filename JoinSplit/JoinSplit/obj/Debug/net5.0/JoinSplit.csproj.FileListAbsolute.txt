@@ -1,0 +1,15 @@
+D:\Amdaris\Занятие 6\Новая папка\JoinSplit\JoinSplit\obj\Debug\net5.0\JoinSplit.GeneratedMSBuildEditorConfig.editorconfig
+D:\Amdaris\Занятие 6\Новая папка\JoinSplit\JoinSplit\obj\Debug\net5.0\JoinSplit.AssemblyInfoInputs.cache
+D:\Amdaris\Занятие 6\Новая папка\JoinSplit\JoinSplit\obj\Debug\net5.0\JoinSplit.AssemblyInfo.cs
+D:\Amdaris\Занятие 6\Новая папка\JoinSplit\JoinSplit\obj\Debug\net5.0\JoinSplit.csproj.CoreCompileInputs.cache
+D:\Amdaris\Занятие 6\Новая папка\JoinSplit\JoinSplit\bin\Debug\net5.0\JoinSplit.exe
+D:\Amdaris\Занятие 6\Новая папка\JoinSplit\JoinSplit\bin\Debug\net5.0\JoinSplit.deps.json
+D:\Amdaris\Занятие 6\Новая папка\JoinSplit\JoinSplit\bin\Debug\net5.0\JoinSplit.runtimeconfig.json
+D:\Amdaris\Занятие 6\Новая папка\JoinSplit\JoinSplit\bin\Debug\net5.0\JoinSplit.runtimeconfig.dev.json
+D:\Amdaris\Занятие 6\Новая папка\JoinSplit\JoinSplit\bin\Debug\net5.0\JoinSplit.dll
+D:\Amdaris\Занятие 6\Новая папка\JoinSplit\JoinSplit\bin\Debug\net5.0\ref\JoinSplit.dll
+D:\Amdaris\Занятие 6\Новая папка\JoinSplit\JoinSplit\bin\Debug\net5.0\JoinSplit.pdb
+D:\Amdaris\Занятие 6\Новая папка\JoinSplit\JoinSplit\obj\Debug\net5.0\JoinSplit.dll
+D:\Amdaris\Занятие 6\Новая папка\JoinSplit\JoinSplit\obj\Debug\net5.0\ref\JoinSplit.dll
+D:\Amdaris\Занятие 6\Новая папка\JoinSplit\JoinSplit\obj\Debug\net5.0\JoinSplit.pdb
+D:\Amdaris\Занятие 6\Новая папка\JoinSplit\JoinSplit\obj\Debug\net5.0\JoinSplit.genruntimeconfig.cache
